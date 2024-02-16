@@ -11,14 +11,14 @@ title: Nate Reviews Stuff
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/71104/utah-mountain-biking-bike-biking-71104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+heroimage: /assets/images/mountainimages.jpeg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -38,7 +38,7 @@ spotify_username: /
 google-analytics: /
 
 # Disqus
-disqus-shortname: thedevslotdisqus_UKuStpFJY5
+disqus-shortname: disqus_UKuStpFJY5
 
 # Name of the Author
 author-name: Nate
